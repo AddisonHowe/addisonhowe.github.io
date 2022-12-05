@@ -10,4 +10,3 @@ permalink: /teaching/
 * Teaching Assistant, Northwestern University
     * Engineering Analysis IV --2021
     * Engineering Analysis IV --2022
-    * Making a test case
