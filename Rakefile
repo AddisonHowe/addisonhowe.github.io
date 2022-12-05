@@ -51,4 +51,9 @@ task :publish do
 end
 
 
+desc "Build and push to main branch"
+task :preview do 
+  system "bundle exec jekyll serve"  
+end
+
 
