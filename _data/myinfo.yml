@@ -1,4 +1,5 @@
-- name: Addison Howe
+me:
+  name: Addison Howe
   photo: myphoto.JPG
   info: PhD Student, Northwestern University 
   email: addi.howe@u.northwestern.edu
@@ -11,4 +12,3 @@
   education2: (2018) M.A. Mathematics<br> University of California, Berkeley
   education1short: (2020- ) PhD Student, Northwestern University
   education2short: (2018) M.A. Mathematics, Berkeley
-  
