@@ -1,14 +1,14 @@
 me:
   name: Addison Howe
   photo: myphoto.JPG
-  info: PhD Student, Northwestern University 
+  info: PhD candidate, Northwestern University 
   email: addi.howe@u.northwestern.edu
   github: https://github.com/AddisonHowe
   researchgate: https://www.researchgate.net/profile/Addison-Howe
   chess: https://www.chess.com/member/addi-howe
   cv: cv/cv.pdf
   number_educ: 2
-  education1: (2020- ) PhD Student, Northwestern University (with <a href="https://www.madhavmani.com" target="_blank">Madhav Mani</a>)
+  education1: (2020- ) PhD candidate, Northwestern University (advised by <a href="https://www.madhavmani.com" target="_blank">Madhav Mani</a>)
   education2: (2018) M.A. Mathematics<br> University of California, Berkeley
-  education1short: (2020- ) PhD Student, Northwestern University
-  education2short: (2018) M.A. Mathematics, Berkeley
+  education1short: (2020- ) PhD candidate, Northwestern University
+  education2short: (2018) M.A. Mathematics, UC Berkeley

@@ -37,7 +37,7 @@ iframe {
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
 <h4>A project</h4>
-Currently in progress...
+In progress...
 </div>
 <!-- <div class="col-md-3 col-sm-12" >
   <iframe src="https://addihowe.com/placeholder" height="192px" frameborder="0" allow="autoplay"></iframe>

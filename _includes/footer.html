@@ -3,25 +3,27 @@
 <div class="container-footer">
   <div class="panel-footer">
 	  <div class="row">
-		<div class="col-sm-4">
-		    <h5>Addison Howe</h5>	
-        <p>{{ site.data.footer.affiliation }}</p>
-		</div>
+			
+			<div class="col-sm-4">
+			    <h5>Addison Howe</h5>	
+	        <p>{{ site.data.footer.affiliation }}</p>
+			</div>
 
-		<div class="col-sm-4">
-		    <h5>Contact</h5>	
-        <p>{{ site.data.footer.contact }}</p>
-		</div>
+			<div class="col-sm-4">
+			    <h5>Contact</h5>	
+	        <p>{{ site.data.footer.contact }}</p>
+			</div>
 
-		<div class="col-sm-4">
-		    <h5>Coordinates</h5>	
-        <p>{{ site.data.footer.location }}</p>
-		</div>
+			<div class="col-sm-4">
+			    <h5>Coordinates</h5>	
+	        <p>{{ site.data.footer.location }}</p>
+			</div>
+	  
 	  </div>
 
-      <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }} </p></center>
+    <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }} </p></center>
+	
 	</div>
-  </div>
 </div>
 
 <script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
