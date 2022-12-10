@@ -7,8 +7,10 @@ me:
   researchgate: https://www.researchgate.net/profile/Addison-Howe
   chess: https://www.chess.com/member/addi-howe
   cv: cv/cv.pdf
-  number_educ: 2
+  number_educ: 3
   education1: (2020- ) PhD candidate, Northwestern University (advised by <a href="https://www.madhavmani.com" target="_blank">Madhav Mani</a>)
-  education2: (2018) M.A. Mathematics<br> University of California, Berkeley
+  education2: (2021) M.S. Applied Mathematics<br> Northwestern University
+  education3: (2018) B.A. Mathematics<br> University of California, Berkeley
   education1short: (2020- ) PhD candidate, Northwestern University
-  education2short: (2018) M.A. Mathematics, UC Berkeley
+  education2short: (2021) M.S. Applied Mathematics, Northwestern University
+  education3short: (2018) B.A. Mathematics, UC Berkeley
