@@ -4,7 +4,7 @@ This website is a work in progress. I started from this <a href="https://github.
 
 ### Acknowledgement
 
-I credit <a href="https://github.com/sbryngelson" target="_blank">Spencer H. Bryngelson</a> for his easily customizable template, as well as the <a href="https://www.allanlab.org/" target="_blank">Allen Lab</a>, which produced the original, suitable also for academic research group webpages.
+I credit <a href="https://github.com/sbryngelson" target="_blank">Spencer H. Bryngelson</a> for his easily customizable template, as well as the <a href="https://www.allanlab.org/" target="_blank">Allan Lab</a>, which produced the original, suitable also for academic research group webpages.
 
 ### License
 
