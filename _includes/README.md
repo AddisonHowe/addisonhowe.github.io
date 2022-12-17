@@ -1,8 +1,15 @@
-# Addison's website
+## About this website
 
-## License
+This website is a work in progress. I started from this <a href="https://github.com/sbryngelson/academic-website-template" target="_blank">template</a> authored by Spencer Bryngelson, which provides an excellent starting point for anyone with a limited knowledge of web design.
+
+### Acknowledgement
+
+I credit <a href="https://github.com/sbryngelson" target="_blank">Spencer H. Bryngelson</a> for his easily customizable template, as well as the <a href="https://www.allanlab.org/" target="_blank">Allan Lab</a>, which produced the original, suitable also for academic research group webpages.
+
+### License
 
 Copyright 2022, Addison Howe
+Copyright 2020, Spencer H. Bryngelson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
