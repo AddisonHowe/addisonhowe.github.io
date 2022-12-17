@@ -21,7 +21,7 @@ permalink: /cats/
 {% for image in site.static_files %}
   {% if image.path contains 'images/cats' %}
   <div class="col-md-4 d-flex align-items-center justify-content-center margin">
-  	<a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+  	<a href="{{ site.baseurl }}{{ image.path }}">
   	  <img src="{{ site.baseurl }}{{ image.path }}" alt="image" class="img-fluid">
   	</a>
   </div>
