@@ -1,4 +1,6 @@
-# Addison's website
+## About this website
+
+This website is a work in progress. I started from this <a href="https://github.com/sbryngelson/academic-website-template" target="_blank">template</a> authored by Spencer Bryngelson, which provides an excellent starting point for anyone with a limited knowledge of web design.
 
 ## License
 

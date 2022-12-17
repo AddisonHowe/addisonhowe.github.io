@@ -3,18 +3,18 @@ title: "Cats"
 layout: default
 excerpt: "Meet Cicero and Figaro."
 sitemap: false
-permalink: /cats.html
+permalink: /cats/
 ---
 
-### Meet Cicero and Figaro
+## Meet Cicero and Figaro
 
 <style>
-.row {
+  .row {
     padding: 8px;
-}
-.col-md-4 {
+  }
+  .col-md-4 {
     padding: 8px;
-}
+  }
 </style>
 
 <div class="row">
