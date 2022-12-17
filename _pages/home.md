@@ -13,4 +13,5 @@ I hold a B.A. in Mathematics from the University of California, Berkeley. My cur
 In my spare time I enjoy playing chess, piano, and judo. I also have two cats, <a href="/cats/" target="_blank">Cicero and Figaro</a>.
 
 #### About this page 
-This website is a work in progress, and taken largely from <a href="https://github.com/sbryngelson/academic-website-template" target="_blank">this repository</a>.
+This website is a work in progress, and was adapted from <a href="https://github.com/sbryngelson/academic-website-template" target="_blank">this template</a>. Check out the original, or find out more <a href="/aboutwebsite.html" target=
+"_blank">here</a>.
