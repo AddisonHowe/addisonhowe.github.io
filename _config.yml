@@ -22,10 +22,8 @@ title: Addison Howe
 email: addi.howe@u.northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Academic webpage of Addison Howe. A work in progress for sure.
-github_username:  AddisonHowe
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://addihowe.com" # the base hostname & protocol for your site, e.g. http://example.com
-
 
 # Google analytics ID
 google_analytics_4: G-G5S8V4DLC1
