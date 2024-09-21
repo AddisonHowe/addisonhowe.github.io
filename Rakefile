@@ -51,7 +51,7 @@ task :publish do
 end
 
 
-desc "Build and push to main branch"
+desc "Preview changes"
 task :preview do 
   system "bundle exec jekyll serve"  
 end

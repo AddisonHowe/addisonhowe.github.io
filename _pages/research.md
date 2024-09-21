@@ -36,9 +36,10 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
-<h4>Inferring signaling dynamics in developing systems</h4>
-I am currently researching how spatio-temporal chemical signals, or morphogens, drive cellular differentiation and the complex formation of different tissues over the course of development, particularly during gastrulation and early organogenesis.
+<h4>Dynamical systems theory informed learning of cellular differentiation landscapes</h4>
+My current research applies tools of machine learning in order to construct low-dimensional models of cellular differentiation dynamics. A preprint of an in-progress manuscript is available on [bioRxiv](https://). Code available on [Github](https://github.com/AddisonHowe/plnn).
 </div>
+<!-- TODO: update arxiv link -->
 <!-- <div class="col-md-3 col-sm-12" >
   <iframe src="https://addihowe.com/placeholder" height="192px" frameborder="0" allow="autoplay"></iframe>
 </div> -->
