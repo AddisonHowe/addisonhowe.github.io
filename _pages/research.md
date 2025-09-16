@@ -37,7 +37,7 @@ iframe {
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
 <h4>Learning geometric models for developmental dynamics</h4>
-My current research applies tools of machine learning in order to construct low-dimensional models of cellular differentiation dynamics. A preprint of an in-progress manuscript is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.21.614191v2). Code available on [Github](https://github.com/AddisonHowe/dynamical-landscape-inference).
+My current research applies tools of machine learning in order to construct low-dimensional models of cellular differentiation dynamics. [Published paper](https://journals.aps.org/prx/abstract/10.1103/8vpj-bj7d) in PRX. Code available on [Github](https://github.com/AddisonHowe/dynamical-landscape-inference).
 </div>
 <!-- <div class="col-md-3 col-sm-12" >
   <iframe src="https://addihowe.com/placeholder" height="192px" frameborder="0" allow="autoplay"></iframe>
